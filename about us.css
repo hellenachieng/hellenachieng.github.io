@@ -1,0 +1,33 @@
+body{
+background-color:chartreuse;
+background-size: 18000px;
+
+}
+p{
+    text-align: center;
+    color:black;
+    font-size: 30px;
+}
+h1{
+    text-align: center;
+    font-size: 100px;
+    color:black;
+    
+}
+h2{
+    text-align: center;
+    font-size:40px;
+    color:black;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    color:black;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+    color:black;
+}
+
+

@@ -1,0 +1,62 @@
+body {
+    height: 205vh;
+   color:black; 
+}
+
+
+
+
+
+
+
+
+
+
+
+.navigate{
+    text-align: center;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    display: flex;
+    font-size: 18px;
+    gap: 70px;
+    color: green;
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color:black;
+}
+body {
+ background-color: chartreuse;
+ background-size: cover;
+
+}
+.navigate{
+    text-emphasis: none;
+    color:green;
+    background-color:aquamarine;
+     padding: 5px;
+    justify-content: center;
+
+    
+}
+li{
+    list-style-type: none;
+    color:black;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+footer{
+    
+    color: black;
+    text-align: center;
+}
+
+
